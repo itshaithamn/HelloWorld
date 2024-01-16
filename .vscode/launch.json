@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "quiz",
+            "request": "launch",
+            "mainClass": "codetest.quiz",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatement",
+            "request": "launch",
+            "mainClass": "codetest.SwitchStatement",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "MathExpressions",
+            "request": "launch",
+            "mainClass": "codetest.MathExpressions",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "FahrenheitToCelsius",
+            "request": "launch",
+            "mainClass": "codetest.FahrenheitToCelsius",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "FloatingPointNumber",
+            "request": "launch",
+            "mainClass": "codetest.FloatingPointNumber",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "TuesdayProblem",
+            "request": "launch",
+            "mainClass": "codetest.TuesdayProblem",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeProblem1",
+            "request": "launch",
+            "mainClass": "codetest.PracticeProblem1",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "ExponentsAndLiterals",
+            "request": "launch",
+            "mainClass": "codetest.ExponentsAndLiterals",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "DisplayTime",
+            "request": "launch",
+            "mainClass": "codetest.DisplayTime",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeWithConstantVariables",
+            "request": "launch",
+            "mainClass": "codetest.PracticeWithConstantVariables",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAreaWithConstant",
+            "request": "launch",
+            "mainClass": "codetest.ComputeAreaWithConstant",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAverage",
+            "request": "launch",
+            "mainClass": "codetest.ComputeAverage",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ComputeArea",
+            "request": "launch",
+            "mainClass": "CodeTest.ComputeArea",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAreaWithConsoleInput",
+            "request": "launch",
+            "mainClass": "CodeTest.ComputeAreaWithConsoleInput",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAverage",
+            "request": "launch",
+            "mainClass": "CodeTest.ComputeAverage",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "CodeTest.Test",
+            "projectName": "HelloApp_692f23b4"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "package1.Test",
+            "projectName": "HelloApp_692f23b4"
+        }
+    ]
+}
