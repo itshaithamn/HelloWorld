@@ -14,6 +14,8 @@ public class App {
             grade = scanner.nextFloat();
 
         }
+
+        //Hi
         scanner.close();
         
         if( 90 <= grade && grade <= 100){
