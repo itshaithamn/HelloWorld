@@ -1,4 +1,3 @@
-package codetest;
 
 import java.util.Scanner;
 

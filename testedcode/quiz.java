@@ -1,4 +1,4 @@
-package codetest;
+package testedcode;
 
 public class quiz {
     public static void main(String[] args) {
