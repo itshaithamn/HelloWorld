@@ -1,7 +1,11 @@
 {
     "cmake.configureOnOpen": false,
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "HelloApp.jar"
-    ]
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "HelloApp.jar"
+        ]
+    }
 }
