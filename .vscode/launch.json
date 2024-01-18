@@ -6,6 +6,21 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "jarfiles",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        
+        {
+            "name": "Attach to Edge",
+            "port": 9222,
+            "request": "attach",
+            "type": "msedge",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
             "name": "quiz",
             "request": "launch",
             "mainClass": "codetest.quiz",
