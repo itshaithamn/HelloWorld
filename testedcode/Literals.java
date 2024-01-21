@@ -1,5 +1,3 @@
-package testedcode;
-
 public class Literals {
     public static void main(String[] args) {
         System.out.println(0B1111); //Hex decimal called binary literal

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComputeArea",
+            "request": "launch",
+            "mainClass": "ComputeArea",
+            "projectName": "HelloApp_5da98ec7"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAreaWithConsoleInput",
+            "request": "launch",
+            "mainClass": "ComputeAreaWithConsoleInput",
+            "projectName": "HelloApp_5da98ec7"
+        },
+        {
+            "type": "java",
             "name": "app",
             "request": "launch",
             "mainClass": "jarfiles.app",

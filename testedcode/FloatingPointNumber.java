@@ -1,5 +1,3 @@
-package testedcode;
-
 import java.util.Scanner;
 
 public class FloatingPointNumber{

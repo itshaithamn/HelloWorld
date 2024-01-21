@@ -1,4 +1,3 @@
-package testedcode;
 public class ModulousPractice {
     public static void main(String[] args) {
         int a = 56 % 6;

@@ -1,5 +1,3 @@
-package testedcode;
-
 import java.util.Scanner; //scanner is in java.util package
 
 public class ComputeAreaWithConsoleInput {

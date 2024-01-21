@@ -1,5 +1,3 @@
-package testedcode;
-
 public class TuesdayProblem {
     public static void main(String[] args) {
         //If today is Tuesday, what will be the day in 100 days?
