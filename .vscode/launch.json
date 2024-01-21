@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q_rsqrt2",
+            "request": "launch",
+            "mainClass": "Q_rsqrt2",
+            "projectName": "HelloApp_5da98ec7"
+        },
+        {
+            "type": "java",
+            "name": "Q_rsqrt",
+            "request": "launch",
+            "mainClass": "testedcode.Q_rsqrt",
+            "projectName": "HelloApp_5da98ec7"
+        },
+        {
+            "type": "java",
             "name": "ComputeArea",
             "request": "launch",
             "mainClass": "ComputeArea",
