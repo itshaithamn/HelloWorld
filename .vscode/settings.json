@@ -7,5 +7,6 @@
         "exclude": [
             "HelloApp.jar"
         ]
-    }
+    },
+    "java.project.sourcePaths": []
 }

@@ -6,12 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "jarfiles.app",
+            "projectName": "HelloApp_5da98ec7"
+        },
+        {
+            "type": "java",
             "name": "Launch with Arguments Prompt",
             "request": "launch",
             "mainClass": "jarfiles",
             "args": "${command:SpecifyProgramArgs}"
         },
-        
         {
             "name": "Attach to Edge",
             "port": 9222,
