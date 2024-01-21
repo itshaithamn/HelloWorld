@@ -19,5 +19,4 @@ public class Q_rsqrt{
         System.out.println("1/sqrt(" + x + ") is: " + result);
         input.close();
     }
-
 }
