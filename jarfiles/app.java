@@ -1,4 +1,3 @@
-package jarfiles;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.BufferedReader;
@@ -7,7 +6,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 
-public class app {
+public class App {
     public static void main(String[] args) throws Exception {
         //System.out.println(args.length);
         //System.out.println(Arrays.toString(args));

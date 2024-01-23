@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class App {
+public class AssignmentOne {
     public static void main(String[] args) throws Exception {
         float grade;
         char letter = 'A';

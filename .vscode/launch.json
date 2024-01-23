@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Objects",
+            "request": "launch",
+            "mainClass": "Objects",
+            "projectName": "HelloApp_aa7dc466"
+        },
+        {
+            "type": "java",
+            "name": "TestCircle",
+            "request": "launch",
+            "mainClass": "TestCircle",
+            "projectName": "HelloApp_aa7dc466"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "HelloApp_aa7dc466"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "HelloApp_aa7dc466"
+        },
+        {
+            "type": "java",
+            "name": "PrintTable",
+            "request": "launch",
+            "mainClass": "PrintTable",
+            "projectName": "HelloApp_aa7dc466"
+        },
+        {
+            "type": "java",
             "name": "Q_rsqrt2",
             "request": "launch",
             "mainClass": "Q_rsqrt2",
